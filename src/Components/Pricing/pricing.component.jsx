@@ -18,8 +18,8 @@ class Pricing extends Component {
     handleClick = (e) => {
         this.setState({
             plan: e.target.value
-        });
-        console.log(this.state.plan);
+        },() =>  console.log(this.state.plan));
+        
     };
 
     render() {
