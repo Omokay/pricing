@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Url
+[Preview Component](https://priceless-torvalds-ba7c50.netlify.app)
 
 ## Available Scripts
 
